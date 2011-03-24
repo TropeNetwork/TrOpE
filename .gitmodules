@@ -3,7 +3,7 @@
 	url = git@github.com:TropeNetwork/com_trope.git
 [submodule "wiki"]
 	path = wiki
-	url = git@github.com:TropeNetwork/TrOpE.wiki
+	url = git@github.com:TropeNetwork/TrOpE.wiki.git
 [submodule "tropenetwork.github.com"]
 	path = tropenetwork.github.com
 	url = git@github.com:TropeNetwork/tropenetwork.github.com.git
