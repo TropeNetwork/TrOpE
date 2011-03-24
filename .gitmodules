@@ -10,3 +10,6 @@
 [submodule "TrOpE_WS"]
 	path = TrOpE_WS
 	url = git@github.com:TropeNetwork/TrOpE_WS.git
+[submodule "xmlresume"]
+	path = xmlresume
+	url = git@github.com:TropeNetwork/xmlresume.git
